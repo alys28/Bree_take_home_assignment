@@ -1,4 +1,4 @@
-# Project Title
+# Bree Take Home Assignment
 
 This project involves data exploration, feature engineering, and modeling using Jupyter Notebooks. The main goal is to preprocess data, engineer features, and build models for non-sequential and sequential data.
 
